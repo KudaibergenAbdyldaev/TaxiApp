@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "719761911294",
+    "firebase_url": "https://taxi-app-8f5af.firebaseio.com",
+    "project_id": "taxi-app-8f5af",
+    "storage_bucket": "taxi-app-8f5af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719761911294:android:3b3b5c5f408ae09e0de4af",
+        "android_client_info": {
+          "package_name": "com.example.taxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719761911294-hc5bueli8mf0ebj2vuuhqho6k4jauivt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxiapp",
+            "certificate_hash": "3c2d2c5e15fe917dd51abf5389a43867c5639280"
+          }
+        },
+        {
+          "client_id": "719761911294-h3nihfgtqneu365ik8uf3o40h21oj4tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5w_g4J08K7yl1BQTyanz4SBudn4qtdRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719761911294-h3nihfgtqneu365ik8uf3o40h21oj4tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719761911294:android:befab6d4ee5d5c030de4af",
+        "android_client_info": {
+          "package_name": "com.example.taxiapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719761911294-qmffir8hieaih0rdt9m02k4t9lfagu9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxiapplication",
+            "certificate_hash": "3c2d2c5e15fe917dd51abf5389a43867c5639280"
+          }
+        },
+        {
+          "client_id": "719761911294-h3nihfgtqneu365ik8uf3o40h21oj4tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5w_g4J08K7yl1BQTyanz4SBudn4qtdRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719761911294-h3nihfgtqneu365ik8uf3o40h21oj4tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
